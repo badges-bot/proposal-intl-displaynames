@@ -1,5 +1,7 @@
 ## Proposal: Intl.DisplayNames
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 ### Stage
 Stage 4
 * [Advanced into Stage 4 in TC39 2020-09-21 meeting](https://docs.google.com/presentation/d/1SicCmt1bo4jyMTvAUiumCBW2ZqUh_-a18xrTO9nqG7U/edit#slide=id.p).
